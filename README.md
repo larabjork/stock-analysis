@@ -21,7 +21,7 @@ This independent challenge assignment built on the work completed with the cours
 * run time can be improved
 
 # Results
-A file was provided [challenge_starter_code.vbs)](https://github.com/larabjork/stock-analysis/blob/main/challenge_starter_code.vbs) that contained a new version of the yearValueAnalysis subroutine (Module7) with comments indicating what new code to insert. Those comments (numbered 1a through 4) are retained in the refactored subroutine, which is called AllStocksAnalysisRefactored (Module8).
+A file was provided [(challenge_starter_code.vbs)](https://github.com/larabjork/stock-analysis/blob/main/challenge_starter_code.vbs) that contained a new version of the yearValueAnalysis subroutine (Module7) with comments indicating what new code to insert. Those comments (numbered 1a through 4) are retained in the refactored subroutine, which is called AllStocksAnalysisRefactored (Module8).
 
 ## Refactored Code
 
@@ -48,7 +48,7 @@ Output for 2018 data from AllStocksAnalysisRefactored macro:
 The refactored subroutine provided identical information more than five times faster than the original subroutine, as shown in the screenshots below (0.25 seconds versus 1.375 seconds). Comparable results, although not pictured, were also achieved for the 2017 data.
 
 Message after running yearValueAnalysis (original) macro:
-![screenshot of Excel alert, stating "This code ran in 1.375 seconds for the year 2018"](lhttps://github.com/larabjork/stock-analysis/blob/main/Resources/VBA_Challenge_2018_original.png)
+![screenshot of Excel alert, stating "This code ran in 1.375 seconds for the year 2018"](https://github.com/larabjork/stock-analysis/blob/main/Resources/VBA_Challenge_2018_original.png)
 
 Message after running  AllStocksAnalysisRefactored (refactored) macro:
 ![screenshot of Excel alert, stating "This code ran in 0.25 seconds for the year 2018"](https://github.com/larabjork/stock-analysis/blob/main/Resources/VBA_Challenge_2018_refactor.png)
